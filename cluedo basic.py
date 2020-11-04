@@ -1,4 +1,4 @@
-# List of all characters
+# List of all characters in cluedo
 chars = ["Miss Scarlett","Professor Plum", "Mrs Peacock", "Reverend Green", "Colonel Mustard", "Dr Orchid"]
 
 # For loop to go through length of array
